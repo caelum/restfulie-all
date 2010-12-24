@@ -1,0 +1,12 @@
+[submodule "restfulie-ruby"]
+	path = restfulie-ruby
+	url = git@github.com:caelum/restfulie.git
+[submodule "restfulie-java/client"]
+	path = restfulie-java/client
+	url = git@github.com:caelum/restfulie-java.git
+[submodule "restfulie-python/client"]
+	path = restfulie-python/client
+	url = git@github.com:caelum/restfulie-py.git
+[submodule "restfulie-javascript/client"]
+	path = restfulie-javascript/client
+	url = git@github.com:caelum/restfulie-javascript.git
