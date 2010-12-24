@@ -10,3 +10,9 @@
 [submodule "restfulie-javascript/client"]
 	path = restfulie-javascript/client
 	url = git@github.com:caelum/restfulie-javascript.git
+[submodule "restfulie-java/server"]
+	path = restfulie-java/server
+	url = git@github.com:caelum/vraptor.git
+[submodule "restfulie-.net/server"]
+	path = restfulie-.net/server
+	url = https://github.com/mauricioaniche/restfulie.net.git
